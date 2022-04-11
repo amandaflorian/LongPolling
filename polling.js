@@ -1,3 +1,5 @@
+//Amanda
+
 function update() {
     $.ajax({
         url: '/data-update',
